@@ -1,0 +1,20 @@
+{
+    "com_port": "COM8",
+    "baud_rate": "115200",
+    "camera_id": "0",
+    "z_pick": "-361",
+    "z_move": "-345",
+    "z": "465",
+    "distance_threshold": "25.0",
+    "v_belt": "80",
+    "processing_delay": "0.42",
+    "robot_delay": "0.42",
+    "offset_x": "-4",
+    "offset_y": "281",
+    "white_x": "100",
+    "white_y": "-60",
+    "blue_x": "100",
+    "blue_y": "6",
+    "red_x": "100",
+    "red_y": "70"
+}
