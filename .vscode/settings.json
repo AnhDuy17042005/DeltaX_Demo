@@ -56,5 +56,5 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "cmake.sourceDirectory": "D:/StudyDocuments_at_BKU/Python/ByteTrack/deploy/DeepStream"
+  "cmake.sourceDirectory": "D:/StudyDocuments_at_BKU/Python/Demo/Demo_TrackingCap/ByteTrack/deploy/DeepStream"
 }

@@ -211,7 +211,7 @@ while True:
             area = cv2.contourArea(cnt)
             if area < 350:  # Bỏ qua vật quá nhỏ
                 continue
-                
+            
             # Tính độ tròn (circularity)
             perimeter = cv2.arcLength(cnt, True)
             if perimeter == 0:
