@@ -1,6 +1,10 @@
-# Demo Tracking Cap
+# 	Vision-Based Bottle Cap Detection & Robotic Pick-Place System
 
 Hệ thống `pick-and-place nắp chai` dùng `camera`, `robot Delta`, `calibration tọa độ` và hai pipeline thị giác máy tính để phát hiện nắp đang chạy trên băng tải, quy đổi tọa độ ảnh sang mm, bù trễ chuyển động và điều khiển robot gắp theo màu.
+
+## Kết quả
+
+[▶ Xem kết quả demo](https://youtube.com/shorts/sjmDQTtJ2vw?si=XQhSdE3wYGFdYJ3o)
 
 ## Tính năng chính
 
