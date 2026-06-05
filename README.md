@@ -4,7 +4,9 @@ Hệ thống `pick-and-place nắp chai` dùng `camera`, `robot Delta`, `calibra
 
 ## Kết quả
 
-https://github.com/user-attachments/assets/fe32c54f-1c9a-4f04-bf25-05be78b2fe0b
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/fe32c54f-1c9a-4f04-bf25-05be78b2fe0b" controls width="420"></video>
+</div>
 
 ## Tính năng chính
 
